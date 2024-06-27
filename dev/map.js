@@ -61,7 +61,7 @@ import { MeasureTool } from '../src/oltb/js/tools/MeasureTool';
 import { MagnifyTool } from '../src/oltb/js/tools/MagnifyTool';
 import { ZoomOutTool } from '../src/oltb/js/tools/ZoomOutTool';
 import { RefreshTool } from '../src/oltb/js/tools/RefreshTool';
-import { ZoomboxTool } from '../src/oltb/js/tools/ZoomboxTool';
+import { ZoomboxTool } from '../src/oltb/js/tools/ZoomBoxTool';
 import { ToolboxTool } from '../src/oltb/js/tools/ToolboxTool';
 import { ScissorsTool } from '../src/oltb/js/tools/ScissorsTool';
 import { SettingsTool } from '../src/oltb/js/tools/SettingsTool';
