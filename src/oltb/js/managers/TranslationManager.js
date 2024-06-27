@@ -95,6 +95,7 @@ class TranslationManager {
     }
 
     static async #loadLanguagesAsync(values) {
+        return;
         return this.#fetchLanguagesAsync(values).then((responses) => {
             responses.forEach((response) => {
                 if(response.status === 'rejected') {
